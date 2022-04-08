@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Six</string>
+    <string name="input">input 金额</string>
+    <string name="result"></string>
+    <string name="Bdollar">dollars</string>
+    <string name="Bhan">EURO</string>
+    <string name="Bri">WON</string>
+    <string name="dollar2"></string>
+    <string name="euro2"></string>
+    <string name="won2"></string>
+</resources>
